@@ -1,6 +1,6 @@
 # Project 3
-## Final Engagement: Attack, Defense, and Analysis of a Vulnerable Network and Capture the Flag
-This project was completed as a duo with Sanjay Sharma.
+## Final Engagement: Attack, Defense, and Analysis of a Vulnerable Network
+This project was completed as a duo with Nicholas Ferguson.
 
 **Scenario**
 

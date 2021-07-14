@@ -45,4 +45,4 @@ The Following Steps were followed to complete the attack.
 8. Secure a user shell as the user whose password you cracked.
 9. Escalate to `root`.
 
-There were also 4 flags to discovered while finishing this attack. The attack can be summarized by viewing the "Red Team: Summary of Operations". The presentation of this project can also be viewed on the "Offensive
+There were also 4 flags to discovered while finishing this attack. The attack can be summarized by viewing the "Red Team: Summary of Operations". The presentation of this project can also be viewed on the "Offensive Final Presentation".
